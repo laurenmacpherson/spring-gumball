@@ -48,7 +48,7 @@ After a short while, it ran and I was able to open up the webpage.
 
 ![Webpage](/images/11_web.png)
 
-##Some Questions
+## Some Questions
 
 1. Does a new release need to be made every time you redo something for the build? When I was having trouble with the keys, it was unclear if I needed to make a new release every time. My assumption was no, because the 'secrets' acted more like variables, but I made various releases just in case. 
 
